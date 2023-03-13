@@ -174,9 +174,6 @@ end
     ylabel('Y Axis','Fontsize',15,'Fontweight','bold','color','k');
 
     J(k)=T(32,15);
-    
-    H = gcf;
-    H.WindowState = 'maximized';
 end
 
     figure(2)
